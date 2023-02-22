@@ -55,3 +55,17 @@
     .conteiner4:hover{
         background-color: red;
     }
+
+    
+    @media screen and (max-width: 780px) {
+       
+        .elements {
+        margin-top: 100px;
+        padding-right: 200px;
+        float: left;  
+        }
+        .sahe{
+            position:relative;
+
+        }
+      }
